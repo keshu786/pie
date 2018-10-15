@@ -1,0 +1,5 @@
+Myacc=//a[text()='My Account']
+email=//input[@id='email']
+pwd=//input[@id='pass']
+login=//button[@id='send2']
+logout=//a[text()='Log Out']
